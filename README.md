@@ -1,26 +1,5 @@
-# meuprimeirocurriculo<!DOCTYPE html>
+# Meu_primeiro_curriculo<!DOCTYPE html>
 <html>
-<head>
-        <style>
-/*Adiciona as linhas duplas envolta da tabela*/
-table, th, td {
-    border: 1px solid black;
-}
-/*Adiciona espaco entre as linhas verticais da tabela*/    
-th, td {
-    padding: 15px;
-}
-/*ALINHA O TEXTO A ESQUERDA*/
-th {
-    text-align: left;
-}
-/*ADICIONA ESPACO ENTRE AS LINHAS DA TABELA*/
-table {
-    border-spacing: 5px;
-}
-                </style>
-</head>
-
 <body>
 
 
